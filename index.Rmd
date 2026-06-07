@@ -15,8 +15,13 @@ site: distill::distill_website
  
 ## Bienvenue --- Welcome ! 
 
-Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
-
-
-                                                                               Foued Hamouda
+Ce cours de finance internationale propose une étude approfondie du fonctionnement des marchés des changes, des mécanismes de détermination des cours et des outils de gestion des risques financiers. Il traite les chapitres suivants.\
+1. **Fondements et Organisation du Marché de Change**:  un aperçu historique du système monétaire international, retraçant l'évolution de l'étalon-or (1850) au système de change flottant actuel, instauré par les accords de la Jamaïque en 1976 après la fin de la convertibilité du dollar en or en 1971\
+2. **Marchés au Comptant, à Terme et des Euro-devises**\: 
+- Le marché au comptant (SPOT) \: Les transactions donnent lieu à une livraison immédiate (sous 2 jours ouvrables). 
+- Le marché à terme (FORWARD) \: Permet de fixer aujourd'hui un cours pour une transaction future\
+3. **Le marché des euro-devises** \: Un marché de financement interbancaire à court terme où les devises se prêtent et s'empruntent en dehors de leur pays d'origine\
+4. **Les Parités Internationales**\:  expose les théories fondamentales liant les taux de change, l'inflation et les taux d'intérêt, Parité du Pouvoir d'Achat (PPA), Parité des Taux d'Intérêt (PTI), Relation de Fisher\
+5. **Gestion du Risque de Change**\:  traite des outils de couverture contre le risque de perte lié aux variations de change. Deux instruments principaux sont détaillés;Les contrats Futures et les Options sur devises. 
+                                                                           
 
